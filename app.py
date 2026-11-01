@@ -161,7 +161,7 @@ MUSIC_PROFILES = {
     "neutral": {
         "style": "Indie and alternative music",
         "tempo": "85-110 BPM",
-        "reason": "For everydat scenes"
+        "reason": "For everyday scenes"
     
     },
     "determination": {
