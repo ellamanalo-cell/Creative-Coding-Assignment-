@@ -358,7 +358,7 @@ if submitted:
 
     if len(story.strip()) < 20:
         st.warning(
-            "Please enter at leadt 20 characters of the story text"
+            "Please enter at least 20 characters of the story text"
         )
     
     else: 
