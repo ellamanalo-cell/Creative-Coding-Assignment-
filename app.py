@@ -341,7 +341,7 @@ with st.form("story_form"):
     )
 
     st.caption(
-        "If a modd has fewer songs,"
+        "If a mood has fewer songs,"
         "only the available tracks will be shown"
     )
 
