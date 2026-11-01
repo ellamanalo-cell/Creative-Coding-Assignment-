@@ -53,7 +53,9 @@ Songs come from a fixed, personally selected catalogue. If a mood contains fewer
 
 ## Screenshots 
 1. The story input form
+<img width="1440" height="855" alt="Screenshot 2026-11-01 at 23 55 09" src="https://github.com/user-attachments/assets/470aa218-9d8c-4126-8b61-97d364e8fb20" />
 2. The soundtrack results page
+<img width="1440" height="855" alt="Screenshot 2026-11-01 at 23 55 51" src="https://github.com/user-attachments/assets/c0833e89-8df3-43ce-b4a4-a9d84beb2ba6" />
 
 ## Project Files 
 app.py = Contains the interface, styling, song catalogue, keyword lists, music profiles, analysis functions, and results page.
